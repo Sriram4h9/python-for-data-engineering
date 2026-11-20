@@ -1,0 +1,13 @@
+1. Introduction
+2. Python Fundamentals
+3. Python Variables
+4. String Formatting
+5. Conditionals
+6. Loops
+7. Data Structures
+8. Functions
+9. Classes & Objects
+10. Inheritance
+11. Multithreading
+12. Requests Module & OS Module
+This is your main foundation course.
